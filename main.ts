@@ -15,7 +15,7 @@ namespace screenMagic {
     /**
      * rowrow
      */
-    //% blockId=screenmagicplotat
+    //% blockId=screenmagicplotat4
     //% block ="plot row at $index"
     //% index.min=0 index.max=4
     export function drawRectangle(row: number): void{
