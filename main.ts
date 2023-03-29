@@ -13,7 +13,7 @@ namespace screenMagic {
         led.plot(x, y);
     }
     /**
-     * asdfasdfasdfaefg
+     * rowrow
      */
     //% blockId=screenmagicplotat
     //% block ="plot row at $index"
